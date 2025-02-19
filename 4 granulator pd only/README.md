@@ -1,0 +1,1 @@
+Simple stereo granulator in pd. Chops up sound file into grains, controlled by the grain % (this is the only setting that should be adjusted). On a metronome, plays back the grains at random positions. Adjust the soundfile in the topleft message.
